@@ -1,0 +1,20 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bloom-filters": "^2.0.0",
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "fully-connected-topology": "^1.1.1",
+    "js-sha256": "^0.9.0",
+    "merkletreejs": "^0.2.31"
+  }
+}
